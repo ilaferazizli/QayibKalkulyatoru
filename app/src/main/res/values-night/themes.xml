@@ -1,7 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+    <color name="defaultGreen">#178D1C</color>
+    <color name="secondaryGreen">#519E54</color>
+    <color name="screen_bg">@color/black</color>
     <style name="Base.Theme.QayıbKalkulyatoru" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimaryDark">#178D1C</item>
+        <item name="colorOnSecondary">#519E54</item>
+        <item name="colorOnBackground">@color/black</item>
+
     </style>
 </resources>
