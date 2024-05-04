@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Qayıb Kalkulyatoru</string>
-    <string name="hello_blank_fragment">This is camera fragment</string>
+    <string name="camera_fragmnet">Camera Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="setting_fragmnet">Setting Fragment</string>
+    <string name="person_fragmnet">Person Fragment</string>
+    <string name="info_fragmnet">Info Fragmnet</string>
     <string name="home">Home</string>
     <string name="camera">Camera</string>
     <string name="info">Info</string>

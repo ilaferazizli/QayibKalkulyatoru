@@ -1,7 +1,7 @@
 <resources xmlns:tool="http://schemas.android.com/apk/res-auto">
     <!-- Base application theme. -->
     <color name="defaultGreen">#2B7C2F</color>
-    <color name="secondaryGreen">#9DDC9F</color>
+    <color name="secondaryGreen">#519E54</color>
     <color name="screen_bg">#F1F0F0</color>
     <style name="Base.Theme.QayıbKalkulyatoru" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="colorSecondary">@color/secondaryGreen</item>

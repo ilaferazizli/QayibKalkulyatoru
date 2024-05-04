@@ -6,5 +6,6 @@
     <style name="Base.Theme.QayıbKalkulyatoru" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorSecondary">@color/secondaryGreen</item>
         <item name="android:statusBarColor">@color/secondaryGreen</item>
+        <item name="colorControlHighlight">@color/secondaryGreen</item>
     </style>
 </resources>
